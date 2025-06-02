@@ -1,2 +1,5 @@
+# Garante que tem acesso ao armazenamento
+termux-setup-storage
+
 cp ~/.shortcuts/AKILPlayMusic.sh ~/storage/downloads
 cp ~/storage/downloads/AKILPlayMusic.sh ~/.shortcuts/
