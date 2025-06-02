@@ -1,0 +1,2 @@
+cp ~/.shortcuts/AKILPlayMusic.sh ~/storage/downloads
+cp ~/storage/downloads/AKILPlayMusic.sh ~/.shortcuts/
